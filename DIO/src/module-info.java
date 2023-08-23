@@ -1,0 +1,3 @@
+module DIO {
+	exports JavaBasico;
+}
